@@ -1,0 +1,5 @@
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\LinkedListLibrary\bin\Release\LinkedListLibrary.dll
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\LinkedListLibrary\bin\Release\LinkedListLibrary.pdb
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\LinkedListLibrary\obj\Release\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\LinkedListLibrary\obj\Release\LinkedListLibrary.dll
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\LinkedListLibrary\obj\Release\LinkedListLibrary.pdb
