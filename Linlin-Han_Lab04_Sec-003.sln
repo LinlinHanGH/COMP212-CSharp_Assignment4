@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin-Han_Lab04_Ex1", "Lin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListLibrary", "LinkedListLibrary\LinkedListLibrary.csproj", "{6BCD6F65-EC22-49B6-BAF0-05074BC6ADFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin-Han_Lab04_Ex2", "Linlin-Han_Lab04_Ex2\Linlin-Han_Lab04_Ex2.csproj", "{7724652E-B3BB-42A4-8DE8-32701A80213B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackInheritanceLibrary", "StackInheritanceLibrary\StackInheritanceLibrary.csproj", "{757D5869-1981-4749-9526-7E8C3F563503}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6BCD6F65-EC22-49B6-BAF0-05074BC6ADFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BCD6F65-EC22-49B6-BAF0-05074BC6ADFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BCD6F65-EC22-49B6-BAF0-05074BC6ADFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7724652E-B3BB-42A4-8DE8-32701A80213B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7724652E-B3BB-42A4-8DE8-32701A80213B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7724652E-B3BB-42A4-8DE8-32701A80213B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7724652E-B3BB-42A4-8DE8-32701A80213B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757D5869-1981-4749-9526-7E8C3F563503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757D5869-1981-4749-9526-7E8C3F563503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757D5869-1981-4749-9526-7E8C3F563503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757D5869-1981-4749-9526-7E8C3F563503}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
