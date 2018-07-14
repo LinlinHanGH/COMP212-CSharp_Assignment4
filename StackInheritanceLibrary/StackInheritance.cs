@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using LinkedListLibrary;
 
+
 namespace StackInheritanceLibrary
 {
     // class StackInheritance inherits class List's capabilities

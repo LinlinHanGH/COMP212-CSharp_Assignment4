@@ -5,3 +5,5 @@ C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin-Han_Lab04_Ex1\obj\Debug\Linlin-Han_Lab04_Ex1.csproj.CoreCompileInputs.cache
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin-Han_Lab04_Ex1\obj\Debug\Linlin-Han_Lab04_Ex1.exe
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin-Han_Lab04_Ex1\obj\Debug\Linlin-Han_Lab04_Ex1.pdb
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin-Han_Lab04_Ex1\bin\Debug\LinkedListLibrary.dll
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin-Han_Lab04_Ex1\bin\Debug\LinkedListLibrary.pdb

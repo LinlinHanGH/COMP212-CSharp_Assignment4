@@ -35,6 +35,9 @@
     <Reference Include="LinkedListLibrary">
       <HintPath>..\LinkedListLibrary\bin\Release\LinkedListLibrary.dll</HintPath>
     </Reference>
+    <Reference Include="StackInheritanceLibrary">
+      <HintPath>..\StackInheritanceLibrary\bin\Release\StackInheritanceLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

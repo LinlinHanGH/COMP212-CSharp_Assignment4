@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListLibrary", "Linked
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackInheritanceLibrary", "StackInheritanceLibrary\StackInheritanceLibrary.csproj", "{757D5869-1981-4749-9526-7E8C3F563503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin_Han_Lab04_Ex02", "Linlin_Han_Lab04_Ex02\Linlin_Han_Lab04_Ex02.csproj", "{F906D863-7113-4525-9E27-FFEA34001E86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin_Han_Lab04_Ex2", "Linlin_Han_Lab04_Ex02\Linlin_Han_Lab04_Ex2.csproj", "{F906D863-7113-4525-9E27-FFEA34001E86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
