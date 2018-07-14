@@ -10,6 +10,12 @@ namespace LinkedListLibrary
     public class List
     {
         private ListNode firstNode;
+
+        public ListNode FirstNode
+        {
+            get { return this.firstNode; }
+        }
+
         private ListNode lastNode;
         private string name; // string like "list" to display
 
@@ -23,6 +29,7 @@ namespace LinkedListLibrary
         // construct empty List with "list" as its name 
         public List() : this("list") { }
 
+       
         // Search() method
         public bool Search(double searchItem)
         {

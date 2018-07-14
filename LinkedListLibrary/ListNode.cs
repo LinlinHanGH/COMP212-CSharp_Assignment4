@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LinkedListLibrary
 {
     // class to represent one node in a list
-    class ListNode
+    public class ListNode
     {
         // automatic read-only property Data
         public double Data { get; private set; }

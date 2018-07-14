@@ -22,9 +22,14 @@ namespace StackInheritanceLibrary
 
         // remove item from top of stack by removing
         // item at front of linked list
-        public object Pop()
+        public double Pop()
         {
             return RemoveFromFront();
         }
+
+        public double Peek() {
+            return this.FirstNode.Data;
+        }
+
     }
 }
