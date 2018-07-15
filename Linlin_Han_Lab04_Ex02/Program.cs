@@ -16,13 +16,15 @@ namespace Linlin_Han_Lab04_Ex02
         {
             var stack = new StackInheritance();
             // create data to store in List
-            double num1 = 1;
-            double num2 = 2;
-            double num3 = 3;
+            // create data to store in List
+            double[] numbers = { 1, 2, 3 };
 
-            stack.Push(num1);
-            stack.Push(num2);
-            stack.Push(num3);
+
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                stack.Push(numbers[i]);
+            }
 
             Console.WriteLine("Get the stack using Push() method----");
             stack.Display();
