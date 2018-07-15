@@ -32,6 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LinkedListLibrary">
+      <HintPath>..\LinkedListLibrary\bin\Release\LinkedListLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="QueueInheritanceLibrary">
+      <HintPath>..\QueueInheritanceLibrary\bin\Release\QueueInheritanceLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

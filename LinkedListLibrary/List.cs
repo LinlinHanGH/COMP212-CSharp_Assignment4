@@ -152,6 +152,29 @@ namespace LinkedListLibrary
             return removeItem; // return removed data
         }
 
+        // remove first node from List
+        public string RemoveFromFrontStr()
+        {
+            if (IsEmpty())
+            {
+                throw new EmptyListException(name);
+            }
+
+            string removeItem = firstNode.StrData; // retrieve data
+
+            // reset firstNode and lastNode references
+            if (firstNode == lastNode)
+            {
+                firstNode = lastNode = null;
+            }
+            else
+            {
+                firstNode = firstNode.Next;
+            }
+
+            return removeItem; // return removed data
+        }
+
         // remove last node from List
         public double RemoveFromBack()
         {
@@ -208,6 +231,29 @@ namespace LinkedListLibrary
                 while (current != null)
                 {
                     Console.Write($"{current.Data} ");
+                    current = current.Next;
+                }
+
+                Console.WriteLine("\n");
+            }
+        }
+
+        public void DisplayString()
+        {
+            if (IsEmpty())
+            {
+                Console.WriteLine($"Empty {name}");
+            }
+            else
+            {
+                Console.Write($"The {name} is: ");
+
+                ListNode current = firstNode;
+
+                // output current node data while not at end of list
+                while (current != null)
+                {
+                    Console.Write($"{current.StrData} ");
                     current = current.Next;
                 }
 

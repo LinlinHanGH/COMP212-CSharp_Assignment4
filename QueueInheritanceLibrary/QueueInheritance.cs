@@ -24,7 +24,7 @@ namespace QueueInheritanceLibrary
         // item at front of linked list
         public object Dequeue()
         {
-            return RemoveFromFront();
+            return RemoveFromFrontStr();
         }
     }
 }
