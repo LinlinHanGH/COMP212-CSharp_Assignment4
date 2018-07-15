@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackInheritanceLibrary", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin_Han_Lab04_Ex2", "Linlin_Han_Lab04_Ex02\Linlin_Han_Lab04_Ex2.csproj", "{F906D863-7113-4525-9E27-FFEA34001E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linlin-Han_Lab04_Ex3", "Linlin-Han_Lab04_Ex3\Linlin-Han_Lab04_Ex3.csproj", "{C5CD2884-E01B-4B22-94C0-4DF9FED092E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueInheritanceLibrary", "QueueInheritanceLibrary\QueueInheritanceLibrary.csproj", "{067762FA-6530-409D-AEDE-1EFD27AE1058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F906D863-7113-4525-9E27-FFEA34001E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F906D863-7113-4525-9E27-FFEA34001E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F906D863-7113-4525-9E27-FFEA34001E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CD2884-E01B-4B22-94C0-4DF9FED092E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CD2884-E01B-4B22-94C0-4DF9FED092E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CD2884-E01B-4B22-94C0-4DF9FED092E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CD2884-E01B-4B22-94C0-4DF9FED092E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067762FA-6530-409D-AEDE-1EFD27AE1058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067762FA-6530-409D-AEDE-1EFD27AE1058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067762FA-6530-409D-AEDE-1EFD27AE1058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067762FA-6530-409D-AEDE-1EFD27AE1058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -117,7 +117,7 @@ namespace LinkedListLibrary
         // Insert object at end of List. If List is empty, 
         // firstNode and lastNode will refer to same object.
         // Otherwise, lastNode's Next property refers to new node.
-        public void InsertAtBack(double insertItem)
+        public void InsertAtBack(string insertItem)
         {
             if (IsEmpty())
             {

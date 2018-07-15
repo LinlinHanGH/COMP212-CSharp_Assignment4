@@ -7,3 +7,5 @@ C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin_Han_Lab04_Ex02\obj\Debug\Linlin_Han_Lab04_Ex2.csproj.CoreCompileInputs.cache
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin_Han_Lab04_Ex02\obj\Debug\Linlin_Han_Lab04_Ex02.exe
 C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin_Han_Lab04_Ex02\obj\Debug\Linlin_Han_Lab04_Ex02.pdb
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin_Han_Lab04_Ex02\bin\Debug\StackInheritanceLibrary.dll
+C:\Users\Linlin\Documents\Doc\11.Centennial College\1.School\Semester 4\COMP212C#\3. assignment\Linlin-Han_Lab04_Sec-003\Linlin_Han_Lab04_Ex02\bin\Debug\StackInheritanceLibrary.pdb
