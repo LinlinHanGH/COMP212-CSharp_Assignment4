@@ -29,7 +29,14 @@ namespace StackInheritanceLibrary
         }
 
         public double Peek() {
-            return this.FirstNode.Data;
+            if (IsEmpty())
+            {
+                throw new EmptyListException();
+            }
+            else {
+                return this.LastNode.Data;
+            }
+            
         }
 
     }

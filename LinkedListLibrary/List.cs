@@ -11,12 +11,11 @@ namespace LinkedListLibrary
     {
         private ListNode firstNode;
 
-        public ListNode FirstNode
-        {
-            get { return this.firstNode; }
-        }
-
         private ListNode lastNode;
+
+        public ListNode LastNode {
+            get { return this.lastNode; }
+        }
         private string name; // string like "list" to display
 
         // construct empty List with specified name
